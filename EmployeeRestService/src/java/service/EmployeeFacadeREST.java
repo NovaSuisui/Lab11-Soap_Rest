@@ -22,7 +22,7 @@ import model.Employee;
 
 /**
  *
- * @author Dylan
+ * @author SK
  */
 @Stateless
 @Path("model.employee")
